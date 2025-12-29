@@ -1,4 +1,4 @@
-# Programa de Estudio: Ingeniería de Software
+# Programa de Estudio Oficial: Ingeniería de Software
 
 ## Información General
 
