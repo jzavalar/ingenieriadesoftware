@@ -1,100 +1,126 @@
-# Programa de Estudio Oficial: Ingeniería de Software
-
-## Información General
-
-**Universidad Autónoma Metropolitana**  
-**Unidad:** Iztapalapa  
-**División:** Ciencias Básicas e Ingeniería  
-
-**Nombre del Plan:** Licenciatura en Computación  
-**Clave:** 2151112  
-**Unidad de Enseñanza-Aprendizaje:** Ingeniería de Software  
-**Créditos:** 11  
-**Tipo:** Obligatorio (OBL.)  
-**Horas Teóricas:** 4.0  
-**Horas Prácticas:** 3.0  
-**Seríación:** 2151108  
-**Trimestre:** VII  
-
-## Objetivos
-
-### Objetivo General:
-Que al final de la UEA el alumno sea capaz de utilizar mejores prácticas básicas de ingeniería de software en el desarrollo de pequeños sistemas intensivos en software.
-
-### Objetivos Específicos:
-Que al final de la UEA el alumno sea capaz de:
-- Comprender las características principales del desarrollo de los sistemas intensivos en software.
-- Conocer los procesos para desarrollar sistemas intensivos en software.
-- Realizar la administración de proyectos de desarrollo de sistemas intensivos en software de tamaño pequeño.
-- Realizar el análisis de requerimientos de sistemas intensivos en software.
-- Realizar la administración de configuración en proyectos de desarrollo de sistemas intensivos en software.
-
-## Contenido Sintético
-
-1. **Procesos de desarrollo de software** (1.5 semanas).
-   1.1 Conceptos básicos de procesos.  
-   1.2 Procesos con alta formalidad.  
-   1.3 Procesos ágiles.  
-
-2. **Administración de proyectos** (3.5 semanas).
-   2.1 Conceptos y ciclo de vida de un proyecto.  
-   2.2 Iniciación de un proyecto.  
-   2.3 Planeación de un proyecto.  
-   2.4 Ejecución, seguimiento y control de un proyecto.  
-   2.5 Cierre de un proyecto.  
-
-3. **Administración de riesgos** (1 semana).
-   3.1 Conceptos básicos de riesgos.  
-   3.2 Identificación, caracterización y priorización de riesgos.  
-   3.3 Estrategias de tratamiento de riesgos.  
-   3.4 Control y seguimiento de riesgos.  
-
-4. **Administración de requerimientos** (3 semanas).
-   4.1 Conceptos básicos de requerimientos de software.  
-   4.2 Flujo de la administración de requerimientos.  
-   4.3 Niveles de requerimientos.  
-   4.4 Rastreabilidad de los requerimientos.  
-   4.5 Validación de requerimientos.  
-
-5. **Administración de configuración** (2 semanas).
-   5.1 Conceptos básicos de administración de configuración.  
-   5.2 Elementos de una línea base.  
-   5.3 Configuración de una línea base.  
-
-## Modalidades de Conducción del Proceso de Enseñanza-Aprendizaje
-
-El profesor utilizará la clase magistral para exponer los temas del curso propiciando la participación activa y corresponsable en el proceso de enseñanza-aprendizaje, el pensamiento crítico, la disciplina y el rigor en el trabajo académico, así como la capacidad para aprender por sí mismo.
-
-Para lograr lo anterior se podrán desarrollar actividades tales como tareas, trabajos de investigación y exposición de temas.
-
-Se deberán desarrollar exhaustivamente ejemplos y ejercicios de administración de proyectos, de riesgos, de requerimientos y de configuración.
-
-En las horas de práctica, se utilizará la modalidad de sesiones de laboratorio de cómputo para que los alumnos resuelvan problemas de manera individual o grupal.
-
-Durante el curso se realizarán progresivamente actividades que culminen con la obtención de un sistema intensivo en software.
-
-## Modalidades de Evaluación
-
-### Evaluación Global:
-La evaluación global de esta UEA incluirá evaluaciones periódicas y, a juicio del profesor, una evaluación terminal.
-
-Se sugiere que las evaluaciones periódicas sean un mínimo de dos escritas y una oral.
-
-El profesor seleccionará los elementos de evaluación periódica de entre las siguientes: evaluaciones, participación en clase, tareas, trabajos de investigación, presentaciones de temas, programas realizados en el laboratorio y las actividades realizadas para el proyecto de desarrollo.
-
-Los factores de ponderación quedarán a juicio del profesor y se darán a conocer al inicio del curso.
-
-### Evaluación de Recuperación:
-A juicio del profesor, consistirá en una evaluación escrita que incluya todos los contenidos teóricos y prácticos de la UEA, o sólo aquellos que no fueron cumplidos durante el trimestre.
-
-## Bibliografía Necesaria o Recomendable
-
-1. Brooks, F., (1995), *The Mythical Man Month*, Addison Wesley, EUA.
-2. DeMarco, T., Lister, T., (2003), *Waltzing with the Bears: Managing Risk on Software Projects*, Dorset House, EUA.
-3. Jalote, P., (2010), *An Integrated Approach to Software Engineering*, Springer, EUA.
-4. Pressman, R., (2010), *Ingeniería de Software*, McGraw Hill, EUA.
-5. Sommerville, I., (2011), *Ingeniería de Software*, Pearson, EUA.
-6. Tsui, F., Karam, O., (2011), *Essentials of Software Engineering*, Jones and Bartlett Publishers, EUA.
+# **Plan Detallado de 10 Semanas: Ingeniería de Software**  
+**Licenciatura en Computación | Universidad Autónoma Metropolitana**  
+**Trimestre VII | Duración: 10 semanas**  
 
 ---
-**Aprobado por el Colegio Académico en su sesión núm. 354**  
+
+## **Semana 1: Fundamentos de Procesos y Gestión de Proyectos**  
+**Horas teóricas (4 h):**  
+- **Sesión 1:** Presentación del curso y objetivos. Introducción a procesos de desarrollo (1.1): formalidad vs. agilidad.  
+- **Sesión 2:** Ciclo de vida de proyectos (2.1) y técnicas de iniciación (2.2): *stakeholders*, alcance y *Project Charter*.  
+
+**Horas prácticas (3 h):**  
+- Definición de un proyecto grupal (ej.: sistema de gestión académica).  
+- Elaboración de un *Project Charter* y matriz de *stakeholders*.  
+
+**Tarea:** Investigar un caso real de fracaso por mala gestión de procesos o alcance.  
+
+---
+
+## **Semana 2: Planificación de Proyectos y Gestión de Riesgos**  
+**Horas teóricas (4 h):**  
+- **Sesión 1:** Técnicas de planificación (2.3): WBS, diagramas de Gantt y estimación de recursos.  
+- **Sesión 2:** Conceptos de riesgos (3.1, 3.2): identificación y matriz de probabilidad-impacto.  
+
+**Horas prácticas (3 h):**  
+- Construcción de un WBS y cronograma para el proyecto grupal.  
+- Identificación de riesgos críticos y propuesta de estrategias de mitigación.  
+
+**Evaluación:** Entrega del cronograma y matriz de riesgos (15% de la calificación periódica).  
+
+---
+
+## **Semana 3: Metodologías Ágiles y Elicitación de Requerimientos**  
+**Horas teóricas (4 h):**  
+- **Sesión 1:** Procesos ágiles (1.3): Scrum y XP. Roles, artefactos y ceremonias.  
+- **Sesión 2:** Administración de requerimientos (4.1, 4.2): técnicas de elicitation (entrevistas, casos de uso).  
+
+**Horas prácticas (3 h):**  
+- Simulación de *sprint planning* para el proyecto.  
+- Elicitación de requerimientos mediante entrevistas guiadas.  
+
+**Tarea:** Documentar 5 casos de uso clave para el proyecto.  
+
+---
+
+## **Semana 4: Validación de Requerimientos y Gestión de Configuración**  
+**Horas teóricas (4 h):**  
+- **Sesión 1:** Validación y rastreabilidad de requerimientos (4.4, 4.5).  
+- **Sesión 2:** Conceptos de configuración (5.1, 5.2): líneas base y control de versiones.  
+
+**Horas prácticas (3 h):**  
+- Creación de una matriz de rastreabilidad para los requerimientos.  
+- Configuración de un repositorio Git y definición de líneas base.  
+
+**Evaluación:** Examen escrito (20% de la calificación periódica) sobre temas 1–4.  
+
+---
+
+## **Semana 5: Ejecución y Seguimiento de Proyectos**  
+**Horas teóricas (4 h):**  
+- **Sesión 1:** Ejecución y monitoreo (2.4): métricas (CPI, SPI), gestión de cambios.  
+- **Sesión 2:** Estrategias de tratamiento de riesgos (3.3, 3.4): planes de contingencia.  
+
+**Horas prácticas (3 h):**  
+- Simulación de seguimiento con análisis de valor ganado.  
+- Actualización del plan de riesgos tras un cambio de alcance simulado.  
+
+**Tarea:** Documentar un informe de avance con métricas y acciones correctivas.  
+
+---
+
+## **Semana 6: Cierre de Proyectos y Documentación**  
+**Horas teóricas (4 h):**  
+- **Sesión 1:** Cierre de proyectos (2.5): lecciones aprendidas y entregables finales.  
+- **Sesión 2:** Revisión de administración de configuración (5.3): auditorías y liberación.  
+
+**Horas prácticas (3 h):**  
+- Elaboración de un informe de cierre y lecciones aprendidas para el proyecto.  
+- Preparación de una versión "release candidate" en el repositorio Git.  
+
+**Evaluación:** Revisión técnica del prototipo funcional (20% de la calificación periódica).  
+
+---
+
+## **Semanas 7–9: Desarrollo Intensivo del Proyecto**  
+**Horas teóricas (4 h/semana):**  
+- **Sesión 1 (Semana 7):** Integración de procesos ágiles y gestión de riesgos en el desarrollo.  
+- **Sesión 2 (Semana 8):** Técnicas avanzadas de validación y pruebas de requerimientos.  
+- **Sesión 3 (Semana 9):** Optimización de la configuración y preparación para la entrega.  
+
+**Horas prácticas (3 h/semana):**  
+- **Semana 7:** Desarrollo de módulos críticos y primera iteración de pruebas.  
+- **Semana 8:** Integración de componentes y resolución de riesgos emergentes.  
+- **Semana 9:** Documentación final, pruebas de aceptación y ajustes de configuración.  
+
+**Entregables:**  
+- Semana 7: Prototipo funcional mínimo viable (MVP).  
+- Semana 8: Versión integrada con métricas de progreso.  
+- Semana 9: Documentación completa y versión final.  
+
+---
+
+## **Semana 10: Evaluación Final y Cierre**  
+**Horas teóricas (4 h):**  
+- Repaso integral y resolución de dudas.  
+- Presentación de estándares de calidad y buenas prácticas (basado en bibliografía: Sommerville, Pressman).  
+
+**Horas prácticas (3 h):**  
+- **Presentación grupal:** Demostración del proyecto y defensa técnica (25% de la calificación final).  
+- **Examen oral individual:** Evaluación de conceptos clave y reflexión crítica (15% de la calificación final).  
+
+**Evaluación Final:**  
+- Proyecto integrador (40%): Calidad técnica, documentación, innovación y gestión de riesgos.  
+- Examen escrito (20%): Casos prácticos sobre temas del curso.  
+
+---
+
+## **Criterios de Evaluación**  
+- **Evaluaciones periódicas (40%):** Examen escrito (20%), prototipo funcional (20%).  
+- **Proyecto final (40%):** Versión final, documentación y presentación.  
+- **Participación y tareas (20%):** Entregas semanales y contribución en actividades prácticas.  
+
+**Nota:** Los factores de ponderación podrán ajustarse según el ritmo del grupo, comunicándose al inicio del curso.  
+
+---  
+*Plan alineado con el programa de estudios aprobado por el Colegio Académico (sesión núm. 354). Las sesiones prácticas integran herramientas como Git, Trello y MS Project para reforzar competencias técnicas y colaborativas.*
